@@ -1,0 +1,26 @@
+body {
+	font-family: 'Times New Roman';
+}
+.title {
+  text-align: center;
+  font-size: 20px;
+  border: solid 5px;
+  border-radius: 50px
+    
+}
+img {
+  border: solid 2px
+	width: 300px;
+} 
+.relevo {
+  text-align: center;
+  font-size: 25px;
+}
+.rlv {
+  text-align: center;
+  border: solid 5px;
+  border-radius: 50px;
+}
+.textrlv {
+  font-size: 30px;
+}
