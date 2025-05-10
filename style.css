@@ -1,16 +1,18 @@
 body {
 	font-family: 'Times New Roman';
+	background-color: black;
 }
 .title {
   text-align: center;
   font-size: 20px;
   border: solid 5px;
-  border-radius: 50px
-    
+  border-radius: 50px;
+	margin: 25px;
+  background-color: white;
 }
 img {
   border: solid 2px;
-	width: 500px;
+	width: 400px;
 } 
 .relevo {
   text-align: center;
@@ -20,7 +22,32 @@ img {
   text-align: center;
   border: solid 5px;
   border-radius: 50px;
+	margin: 25px;
+	background-color: white;
 }
 .textrlv {
   font-size: 30px;
+	padding: 0 20px 0 20px;
+}
+.sls {
+	text-align: center;
+  border: solid 5px;
+  border-radius: 50px;
+	margin: 25px;
+	text-align: center;
+	background-color: white;
+}
+.solos {
+	font-size: 25px;
+}
+.textsls {
+	font-size: 30px;
+	padding: 0 20px 0 20px;
+}
+.bla {
+text-align: center;
+  border: solid 5px;
+  border-radius: 50px;
+	margin: 25px;
+	background-color: white;
 }
